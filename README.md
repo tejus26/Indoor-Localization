@@ -10,10 +10,11 @@ A laptop can communicate with TAG using Serial Port or WiFi to gather the ranges
 ANCHOR node and perform localization computation and plot the location on a 3D plot.
 
 Folder Structure:  
+
 	Arduino:  
 		+DWM1000 modified library  
 		+Arduino code for TAG and ANCHOR nodes  
 		+Arduino code for WiFi Communication  
-	GUI:
+	GUI:   
 		+ serial_gui.py: Python script for localization and serial communication with TAG  
 		+ wifi_comm.py : Python script for localization and wifi communication with TAG  
