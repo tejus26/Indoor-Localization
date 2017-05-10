@@ -1,5 +1,6 @@
 # Indoor-Localization
 Indoor Localization using Arduino and DWM1000 Modules
+
 The project is developed by Albert Davies, Anirban Ghosh and Tejus Siddagangaiah from CMU. 
 
 The project aims to localize a mobile node in an indoor setting with known localtions of 
